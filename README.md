@@ -95,3 +95,12 @@ If a victim submits their KYC (Aadhaar, PAN, Video Verification) to open a Demat
 
 ---
 *Disclaimer: This repository is created strictly for educational purposes and cybersecurity awareness. The data provided relies on OSINT techniques to protect prospective job seekers from financial fraud.*
+
+
+
+all in my hosted website read it 
+
+
+https://rg100152.github.io/Innovators-Company-Exposed/
+
+
